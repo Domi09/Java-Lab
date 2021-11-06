@@ -12,19 +12,7 @@ specified. Then input required elements for the array.
 7) Show which array contains the biggest number.
 8) Check which array contains more even numbers and more odd numbers.
 */
-/*Q1. WAP to create a class Array having member variables as an integer array 
-and it’s size. 
-Design methods to perform the following operations on the array:
-1) Input the size of the array and allocate memory for the Array as per the size 
-specified. Then input required elements for the array.
-2) To display the array elements.
-3) Calculate sum and average of elements.
-4) Swap the max and min elements.
-5) Find the occurrence of different elements.
-6) Reverse each element of the array and store them in another array.
-7) Show which array contains the biggest number.
-8) Check which array contains more even numbers and more odd numbers.
-*/
+
 import java.util.*;
 
 public class a8 {
